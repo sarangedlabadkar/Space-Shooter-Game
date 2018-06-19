@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1526504967 source:s:\bucky c++ projects\sfml with savyan\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<cmath>
+	<ctime>
+	<cstdlib>
+	"collision.hpp"
+	"audio.hpp"
+	<iostream>
+
+1526450105 source:s:\bucky c++ projects\sfml with savyan\collision.cpp
+	<SFML\Graphics.hpp>
+	<map>
+	"Collision.hpp"
+
+1526450079 s:\bucky c++ projects\sfml with savyan\collision.hpp
+
+1526501779 source:s:\bucky c++ projects\sfml with savyan\media.c
+
+1526502464 s:\bucky c++ projects\sfml with savyan\audio.hpp
+	<SFML/System.hpp>
+	<SFML/Audio/Listener.hpp>
+	<SFML/Audio/Music.hpp>
+	<SFML/Audio/Sound.hpp>
+	<SFML/Audio/SoundBuffer.hpp>
+	<SFML/Audio/SoundBufferRecorder.hpp>
+	<SFML/Audio/SoundRecorder.hpp>
+	<SFML/Audio/SoundStream.hpp>
+
